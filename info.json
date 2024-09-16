@@ -1,0 +1,9 @@
+{
+  "name": "customizable-quality-names",
+  "version": "1.0.0",
+  "title": "Customizable Quality Names",
+  "author": "Wiwiweb",
+  "dependencies": ["base >= 1.2.0", "quality >= 1.2.0"],
+  "quality_required": true,
+  "factorio_version": "1.2"
+}
