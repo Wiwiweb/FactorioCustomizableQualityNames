@@ -1,6 +1,6 @@
 {
   "name": "customizable-quality-names",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "title": "Customizable Quality Names",
   "author": "Wiwiweb",
   "dependencies": ["quality >= 2.1.0"],
